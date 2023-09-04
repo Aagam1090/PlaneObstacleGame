@@ -26,6 +26,5 @@ If you're interested in contributing to this game or have ideas for improvements
 
 ### Credits
 
-This game was created by [Your Name] and is hosted on GitHub Pages. Special thanks to [Any Additional Contributors] for their contributions.
-
+This game was created by Aagam Shah and is hosted on GitHub Pages. 
 Enjoy playing the Plane Obstacle Game, and have fun dodging those walls!
