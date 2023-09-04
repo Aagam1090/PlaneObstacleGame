@@ -1,6 +1,6 @@
 # Plane Obstacle Game
 
-![Game Screenshot](image.png)
+![Game Screenshot](Image.png)
 
 Welcome to the Plane Obstacle Game! In this simple yet challenging game, you control a plane, and your mission is to navigate through a series of obstacles without crashing into the walls. Your goal is to pass through the gaps between the walls and enjoy the thrill of flying.
 
